@@ -43,20 +43,17 @@ currently_afk_reason = (
     "`I am currently AFK because {reason}.`\n`Last seen: {elapsed} ago.`")
 
 AFKMEMEZ = [
-    "You missed me, next time aim better.",
-    "Me no here, Me go bye.\nLeave me message. Me reply.",
-    "I'll be back in a few minutes and if I'm not...,\nwait longer.",
-    "I'm not here right now, so I'm probably somewhere else.",
-    "Roses are red, violets are blue.\
-        \nLeave me a message, and I'll get back to you.",
-    "I'll be right back,\nbut if I'm not right back,\nI'll be back later.",
-    "If you haven't figured it out already,\nI'm not here.",
-    "Hello, welcome to my away message, how may I ignore you today?",
-    "You know the drill, you leave a message, and I'll ignore it.",
-    "I'm away from the keyboard at the moment,\
-        \nbut if you'll scream loud enough at your screen,\
-        \nI might just hear you.",
-    "I went that way\n---->",
+    "`Don't let your wounds end your fate`",
+    "Be strong, when weak. Be brave, when faced with fear. Be humble, when victorious`!",
+    "`My stout heart defeated your shapr sword`",
+    "`Your mind and spirit is the strongest weapon you have.`",
+    "`There is more honor in death than a life without test.`",
+    "`Roses are red,\nViolets are blue,\nLeave me a message,\nAnd I'll get back to you.`",
+    "`Sometimes the best things in life are worth waiting for…\nI'll be right back.`",
+    "`I'll be right back,\nbut if I'm not right back,\nI'll be back later.`",
+    "`If you haven't figured it out already,\nI'm not here.`",
+    "`Hello, welcome to my away message, how may I ignore you today?`",
+    "`Trust yourself, there is no shame in competition`",
     "This is an away message and I am away... so leave a message.",
     "I went this way\n<----",
     "If I were here,\nI'd tell you where I am.\
